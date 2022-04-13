@@ -1,4 +1,5 @@
 # ant5015-2022Spring
+<<<<<<< HEAD
 Notebooks for Deep Learning for Music & Audio @ Dept. of Art & Technology, Sogang University
 
 딥러닝 처음어서 더 열심히...
@@ -7,3 +8,13 @@ Notebooks for Deep Learning for Music & Audio @ Dept. of Art & Technology, Sogan
 
 참고 도서
 - [딥러닝 파이토치 교과서](https://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791165218942)
+=======
+Notebooks for Deep Learning for Music &amp; Audio @ Dept. of Art &amp; Technology, Sogang University
+
+---------------
+Reference Materials
+
+
+- [Fundamentals of Music Processing Notebook](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html) by Prof. Meinard Müller
+  - Especially helpful for audio signal processing (e.g. Spectrogram) for music signal processing
+>>>>>>> main
