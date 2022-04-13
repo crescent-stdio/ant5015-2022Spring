@@ -134,3 +134,4 @@ dmypy.json
 genres/
 MTAT_SMALL/
 .DS_STORE
+*.png
