@@ -134,6 +134,7 @@ dmypy.json
 *.zip
 genres/
 MTAT_SMALL/
+datasets/
 .DS_STORE
 *.png
 *.npz
