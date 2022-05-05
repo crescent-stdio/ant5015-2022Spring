@@ -12,6 +12,4 @@ Reference Materials
 
 참고 도서
 - [딥러닝 파이토치 교과서](https://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791165218942)
-=======
-Notebooks for Deep Learning for Music &amp; Audio @ Dept. of Art &amp; Technology, Sogang University
 
