@@ -132,9 +132,7 @@ dmypy.json
 *.wav
 *.mp3
 *.zip
-genres/
-MTAT_SMALL/
-datasets/
+*/
 .DS_STORE
 *.png
 *.npz
